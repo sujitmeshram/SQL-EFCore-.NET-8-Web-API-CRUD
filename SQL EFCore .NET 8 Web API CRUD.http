@@ -1,0 +1,6 @@
+@SQL_EFCore_.NET_8_Web_API_CRUD_HostAddress = http://localhost:5086
+
+GET {{SQL_EFCore_.NET_8_Web_API_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

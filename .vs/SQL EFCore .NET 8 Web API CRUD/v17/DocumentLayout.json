@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\sql efcore .net 8 web api crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:sql efcore .net 8 web api crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|e:\\code\\sql efcore crud net8 web api\\sql efcore .net 8 web api crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D726717-211F-436F-820F-56AE8BC51151}|SQL EFCore .NET 8 Web API CRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQL EFCore .NET 8 Web API CRUD",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\SQL EFCore .NET 8 Web API CRUD.csproj",
+              "RelativeDocumentMoniker": "SQL EFCore .NET 8 Web API CRUD.csproj",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\SQL EFCore .NET 8 Web API CRUD.csproj",
+              "RelativeToolTip": "SQL EFCore .NET 8 Web API CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T06:16:53.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:15:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T06:13:22.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:12:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:11:15.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Code\\SQL EFCore CRUD NET8 Web API\\SQL EFCore .NET 8 Web API CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:09:49.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
